@@ -1,0 +1,7 @@
+BMD_Category.xcodeproj/xcuserdata/
+BMD_Category.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+BMD_Category.xcodeproj/project.xcworkspace/xcuserdata/
